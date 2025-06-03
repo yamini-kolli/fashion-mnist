@@ -1,4 +1,5 @@
 🧠 Fashion MNIST - Image Classification using CNN
+
 This project demonstrates the development and training of a Convolutional Neural Network (CNN) for classifying clothing images from the Fashion MNIST dataset. It serves as an entry-level deep learning project for recognizing 10 different types of fashion items.
 
 📌 Problem Statement
